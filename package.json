@@ -5,7 +5,7 @@
   "keywords": [
     "express",
     "middleware",
-    "promise"
+    "async"
   ],
   "author": {
     "name": "Guilherme Alves",
