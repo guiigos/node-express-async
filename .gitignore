@@ -12,9 +12,6 @@
 # build
 dist
 
-# editor
-.vscode
-
 # yarn
 yarn-debug.log*
 yarn-error.log*
