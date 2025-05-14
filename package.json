@@ -1,18 +1,6 @@
 {
   "name": "node-express-async",
   "version": "1.0.0",
-  "description": "Example of creating a middleware async",
-  "keywords": [
-    "express",
-    "middleware",
-    "async"
-  ],
-  "author": {
-    "name": "Guilherme Alves",
-    "email": "guiigos.alves@gmail.com",
-    "url": "http://www.guiigos.alves"
-  },
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "nodemon": "nodemon index",
@@ -27,6 +15,5 @@
   },
   "devDependencies": {
     "nodemon": "2.0.16"
-  },
-  "license": "MIT"
+  }
 }
