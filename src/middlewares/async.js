@@ -1,4 +1,4 @@
-import httpStatus from 'http-status';
+import httpStatus from "http-status";
 
 const handleResponse = (res, data) => res.status(httpStatus.OK).send(data);
 const handleError = (res, error) => res.status(httpStatus.BAD_REQUEST).send(error);
